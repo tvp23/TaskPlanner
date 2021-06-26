@@ -21,7 +21,7 @@
                         {{$task[0]->deadlinetime}}
                     </div>
                 </div>
-                <div class="d-flex justify-center"><a class="btn btn-primary" href="{{url()->previous()}}">Back</a></div>
+                <div class="d-flex justify-center mb-3 mt-5"><a class="btn btn-primary" href="{{url()->previous()}}">Back</a></div>
             </div>
         </div>
     </div>

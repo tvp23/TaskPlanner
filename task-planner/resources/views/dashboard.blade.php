@@ -12,7 +12,7 @@
                 <div class="d-flex justify-content-center align-items-center">
                     <div class="text-center">
                         <h2>Welcome, {{$user->name}}</h2>
-                        <p>Here you see all your tasks. to see more info click on one of the widgets. If you want to see all press more.</p>
+                        <p>Here you can see all your tasks neatly in one place. To see individual tasks click on the boxes.</p>
                         <button id="alltasks" class="btn btn-primary">All Tasks</button>
                     </div>
                 </div>
