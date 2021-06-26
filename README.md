@@ -2,7 +2,7 @@
 This application is made to plan your tasks
 
 ## Set-Up
-To set up enter "php artisan migrate:fresh --seed" in your terminal
+To set up set your .env file and create a database. Than enter "php artisan migrate:fresh --seed" in your terminal
 ### Login
 Than you can log in with:
 Email, Admin@root.com
